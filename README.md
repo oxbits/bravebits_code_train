@@ -8,6 +8,11 @@
  - **PRO** professional code - baby steps using 100% real, commercially viable, languages, frameworks, and technologies
 
 ---
+# Phaser 3
+
+https://glitch.com/edit/#!/sunrise-gosling
+
+---
 # Jupyter Notebooks
 
 https://colab.research.google.com/drive/1hLYN9kHEajeFcUaTPnpJBdKGtPOy22Qp
@@ -16,11 +21,6 @@ https://colab.research.google.com/drive/1hLYN9kHEajeFcUaTPnpJBdKGtPOy22Qp
 # Choose Your Own...
 
 https://glitch.com/edit/#!/messy-cyclone
-
----
-# Phaser 3
-
-https://glitch.com/edit/#!/sunrise-gosling
 
 ---
 ---
