@@ -1,6 +1,6 @@
 # bravebits - Code Train
 
-## goals: ( Hi! 5 ✋ )
+## goals: ( Hi ! 5 ✋ )
  - **FUN** - games, graphics, and more
  - **FREE** & open source software (FOSS)
  - **EASY** - work in the browser - no installation
