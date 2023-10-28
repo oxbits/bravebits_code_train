@@ -14,15 +14,15 @@
 https://glitch.com/edit/#!/tree-fern-bug
 
 ---
-# Jupyter Notebooks
-
-https://colab.research.google.com/drive/1hLYN9kHEajeFcUaTPnpJBdKGtPOy22Qp
-
----
 # Choose Your Own...
 
 https://glitch.com/edit/#!/messy-cyclone
 
+
+---
+# Jupyter Notebooks
+
+https://colab.research.google.com/drive/1hLYN9kHEajeFcUaTPnpJBdKGtPOy22Qp
 ---
 ---
 # MORE LINKS...
