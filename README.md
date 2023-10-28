@@ -21,8 +21,23 @@ https://glitch.com/edit/#!/messy-cyclone
 ---
 # Jupyter Notebooks
 
+### option a:
+
+JupyterLite:
+https://jupyter.org/try-jupyter/lab/
+
+files for JupyterLite:
+https://github.com/oxbits/bravebits_code_train/raw/master/jupyter_notebook/jupyter_notebook.zip
+
+Uncompress files and drag into JupyterLite in browser.
+Double click on `bravebits_python_fun.ipynb` and run the notebook cell by cell.
+
+### option b:
+
+google colab:
 https://colab.research.google.com/drive/1hLYN9kHEajeFcUaTPnpJBdKGtPOy22Qp
 
+Requires a google account to run the notebook.
 ---
 ---
 # MORE LINKS...
