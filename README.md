@@ -10,10 +10,15 @@
 ---
 # Phaser 3
 
+new level editing version of game:
+
 https://glitch.com/edit/#!/reflective-temporal-nutmeg
 
+
+original version of game:
 <!-- https://glitch.com/edit/#!/sunrise-gosling -->
 https://glitch.com/edit/#!/tree-fern-bug
+
 
 tutorial - how to change game images: 
 
