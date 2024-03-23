@@ -23,6 +23,10 @@ https://docs.google.com/document/d/1IFI6i4XuWwEhhBobMm1RhXkNCxYd5a9P9tBYI3xTnSE
 ---
 # Choose Your Own...
 
+NEW CYO:<br>
+https://glitch.com/edit/#!/pumped-abalone-scallion
+
+old cyo:<br>
 https://glitch.com/edit/#!/messy-cyclone
 
 ---
